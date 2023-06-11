@@ -18,16 +18,17 @@ h1 {
     font-size: x-large;
     position: absolute;
     left: 50px;
+    
 }
 #t3 {
     font-size: x-large;
-    position: absolute;
     left: 250px;
+    position:absolute;
 }
 #t3:hover {
     font-size: x-large;
-    position: absolute;
-    left: 150px;
+    left: 250px;
+    position:absolute;
 }
 h2{
     text-align: center;
