@@ -1,0 +1,180 @@
+a {
+    color: black;
+}
+a:hover{
+    color:white;
+    text-decoration: none;
+}
+h1 {
+    font-size: 60px;
+    color:black;
+   
+    text-align: center;
+    left: 400px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#t2 {
+    font-size: x-large;
+    position: absolute;
+    left: 50px;
+}
+#t3 {
+    font-size: x-large;
+    position: absolute;
+    left: 250px;
+}
+#t3:hover {
+    font-size: x-large;
+    position: absolute;
+    left: 150px;
+}
+h2{
+    text-align: center;
+    font-size: 35;
+}
+#p1 {
+    padding: 5px;
+    font-family: fantasy;
+    font-size:30px;
+    width:700px;
+    position:absolute;
+    top:250px;
+    left: 450px;
+}
+p { text-align: center;
+    font-size:25px;
+    width:700px;
+    width: 500px;
+}
+#com {
+    font-size: 50px;
+    position: absolute;
+    top: 600px;
+    left: 200px;
+}
+#sm {
+    font-size: 50px;
+    position: absolute;
+    top: 600px;
+    right:300px ;
+}
+#insta {
+    position: absolute;
+    top: 750px;
+    right: 200px;
+    width: 120px;
+}
+#twich{
+    position: absolute;
+    top: 750px;
+    right: 430px;
+    width: 120px;
+}
+#mail {
+    position: absolute;
+    top: 750px;
+    left: 100px;
+    width:120px;
+}
+#phone {
+    position: absolute;
+    top: 750px;
+    left: 400px;
+    width: 120px;
+}
+
+
+#witcher-paragraf {
+    position: relative;
+    top: 300px;
+    left: 950px;
+}
+
+
+
+
+#re2-paragraf {
+    position: relative;
+    left: 100px;
+    
+}
+
+#CallofJuarez-paragraf {
+    position: relative;
+    left: 200px;
+}
+
+#Uncharted-paragraf {
+    position: relative;
+    left: 150px;
+}
+
+#killzone-paragraf {
+    position: relative;
+    left: 200px;
+}
+#Mandalorian-paragraf {
+    position: absolute;
+    top: 400px;
+    left: 950px;
+}
+#Doctor-Who-resim {
+    width: 24%; 
+    height: 36%;
+    position: absolute;
+    left: 700px;
+    top: 1000px;
+}
+#Doctor-Who-paragraf {
+    position: relative;
+    left: 100px;
+}
+#Seinfeld-paragraf {
+    position: relative;
+    left: 200px;
+}
+#Seinfeld-resim {
+    position: absolute;
+    top: 1550px;
+    left: 900px;
+}
+#Neon-Genesis-Evangelion-paragraf {
+    position: relative;
+    left: 50px;
+}
+#Neon-Genesis-Evangelion-resim {
+    position: absolute;
+    top: 2560px;
+    left: 1090px;
+}
+#berserk-paragraf {
+    position: relative;
+    left: 200px;
+}
+#berserk-resim {
+    position: relative;
+    left: 850px;
+    bottom: 500px;
+}
+
+.slider {
+    position: relative;
+    top: 700px;
+    left: 300px;
+    width: 100%;
+    overflow: hidden;
+  }
+  
+  .slides {
+    display: flex;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .slide {
+    flex: 0 0 100%;
+  }
+
+body{
+    background-color: gray;
+}
